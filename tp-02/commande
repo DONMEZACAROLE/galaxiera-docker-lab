@@ -1,0 +1,11 @@
+ Sart Apache services on ubuntu 22.04
+
+dockerfile configuration
+1. pull de l'image ubuntu:lastest a partir du docker-registry
+2. mise a jour de la base de donné des packet apt
+3.Installation du service apache2
+4. demarrage du service apache2 et persistance grace a ̀̀̀sleep infinity ̀
+
+>> **experience 1**:
+>> **experience 2**:
+>> **esperience 3**
